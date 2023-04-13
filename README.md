@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @woooocoder, a 3rd year CompSci student in the Boston area
-- 👀 I’m interested in scientific computing and frontend engineering 
-- 💻 I am currently learning JavaScript, HTML/CSS, R (Shiny) and Python (Pandas) 
-- 💞️ I plan to upload my learning journey here 
+👋 Hi, I’m @woooocoder, a 3rd year CompSci (BS) student in the Boston area
+👀 Interested in scientific computing and frontend engineering 
+💻 Currently learning 💻 
+   - JavaScript & HTML/CSS
+   - R (Shiny)
+   - Python (Pandas) 
+<!--- 🥼 What I'm Working on 🥼 --->
 
 <!---
 woooocoder/woooocoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
