@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @woooocoder
-- 👀 I’m interested in scientific computing
-- 🌱 I’m currently learning Pandas, SQL, and Python
-- 💞️ I’m looking to collaborate on machine learning projects, I plan to upload my learning journey here 
+- 👋 Hi, I’m @woooocoder, a 3rd year CompSci student in the Boston area
+- 👀 I’m interested in scientific computing and frontend engineering 
+- 💻 I am currently learning Java, HTML/CSS, R (Shiny) and Python (Pandas) 
+- 💞️ I plan to upload my learning journey here 
 
 <!---
 woooocoder/woooocoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
