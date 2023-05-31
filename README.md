@@ -1,11 +1,11 @@
-👋 Hi, I’m @woooocoder, a 3rd year CompSci (BS) student in the Boston area
+👋 Hi, I’m @woooocoder, a 4th year CompSci (BS) student in the Boston area
 
-👀 Interested in scientific computing and frontend engineering 
+👀 Interested in front end web-development 
 
 💻 Currently learning 💻 
-   - JavaScript & HTML/CSS
-   - R (Shiny)
-   - Python (Pandas) 
+   - JavaScript (Node, React and Express) 
+   - HTML/CSS (Bootstrap and Semantic UI)
+   - MongoDB
 <!--- 🥼 What I'm Working on 🥼 --->
 
 <!---
