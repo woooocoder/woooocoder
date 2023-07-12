@@ -3,8 +3,9 @@
 👀 Interested in front end web-development 
 
 💻 Currently learning 💻 
-   - JavaScript (Node, React and Express) 
-   - HTML/CSS (Bootstrap and Semantic UI)
+   - Figma
+   - JavaScript (React, Node and Express) 
+   - HTML/CSS (Tailwind and Chakra UI)
    - MongoDB
 <!--- 🥼 What I'm Working on 🥼 --->
 
