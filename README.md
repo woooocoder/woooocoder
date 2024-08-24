@@ -4,9 +4,9 @@
 
 💻 Currently learning 💻 
    - Figma
-   - JavaScript (React, Node and Express) 
-   - HTML/CSS (Tailwind and Chakra UI)
-   - MongoDB
+   - TypeScript
+   - Pandas & Python
+   - Arabic
 <!--- 🥼 What I'm Working on 🥼 --->
 
 <!---
