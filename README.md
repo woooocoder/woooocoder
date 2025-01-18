@@ -1,4 +1,4 @@
-👋 Hi, I’m @woooocoder, a 4th year CompSci (BS) student in the Boston area
+👋 Hi, I’m @woooocoder, CompSci (BS) alumni based in the Boston area
 
 👀 Interested in front end web-development 
 
