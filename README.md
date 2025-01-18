@@ -3,10 +3,9 @@
 👀 Interested in front end web-development 
 
 💻 Currently learning 💻 
-   - Figma
-   - TypeScript
-   - Pandas & Python
-   - Arabic
+   - AWS: S3, Lambda, RDS
+   - Postgres
+   - Pulumi & Terraform
 <!--- 🥼 What I'm Working on 🥼 --->
 
 <!---
